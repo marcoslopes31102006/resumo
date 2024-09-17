@@ -1,7 +1,7 @@
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
+    --vemelho-principal: #FFFFFF;
+    --verde-secundario: #C0C0C0;
+    --botao-amarelho: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
@@ -79,12 +79,12 @@ body {
 .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
-    color: var(--branco-principal);
+    color: var(--vermelho-principal);
     margin-bottom: 0.1em;
 }
 
 .descricao__texto {
-    color: var(--cinza-secundario);
+    color: var(--verde-secundario);
 }
 
 .secundario__botao {
@@ -109,12 +109,12 @@ body {
 
 .dispositivos__titulo {
     font-size: 48px;
-    color: var(--branco-principal);
+    color: var(--vermelho-principal);
 }
 
 .lista__item {
     font-size: 32px;
-    color: var(--branco-principal);
+    color: var(--vermelho-principal);
 }
 
 .rodape {
@@ -131,7 +131,7 @@ body {
 
 .lista__link a{
     text-decoration: none;
-    color: var(--branco-principal);
+    color: var(--vermelho-principal);
     margin-left: 1em;
 }
 
